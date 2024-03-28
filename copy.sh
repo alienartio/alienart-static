@@ -15,6 +15,12 @@ copy_files() {
     # Find all files with the specified extension in the source directory
     find "$src_dir" -type f -name "*.$ext" -print0 |
     while IFS= read -r -d '' file; do
+        # Extract only the filename
+        filename=$(basename "$file")
+
+        # Remove everything between '[' and ']' from the filename
+        new_filename=$(echo "$filename" | sed 's/\[[^]]*\]//g')
+
         # Extract the directory name containing the file
         dir=$(dirname "$file")
 
@@ -25,7 +31,7 @@ copy_files() {
         mkdir -p "$dest_dir/$parent_dir"
 
         # Copy the file and its parent directory to the destination directory
-        cp "$file" "$dest_dir/$parent_dir"
+        cp "$file" "$dest_dir/$parent_dir/$new_filename"
     done
 }
 
