@@ -1,0 +1,13 @@
+{
+  "indicator": "growth",
+  "options": [
+    {
+      "url": "up.svg",
+      "value": 1
+    },
+    {
+      "url": "down.svg",
+      "value": -1
+    }
+  ]
+}

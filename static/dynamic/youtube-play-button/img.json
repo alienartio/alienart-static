@@ -1,0 +1,29 @@
+{
+  "indicator": "value",
+  "options": [
+    {
+      "url": "silver.svg",
+      "value": 100000
+    },
+    {
+      "url": "gold.svg",
+      "value": 1000000
+    },
+    {
+      "url": "diamond.svg",
+      "value": 10000000
+    },
+    {
+      "url": "diamond.svg",
+      "value": 10000000
+    },
+    {
+      "url": "custom.svg",
+      "value": 50000000
+    },
+    {
+      "url": "red-diamond.svg",
+      "value": 100000000
+    }
+  ]
+}
