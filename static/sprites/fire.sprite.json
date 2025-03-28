@@ -1,5 +1,6 @@
 {
-  "imageUrl": "./fire2.sprite.svg",
+  "imageUrl": "./fire.sprite.svg",
+  "previewUrl": "./fire.svg",
   "width": 512,
   "height": 512,
   "frameRate": 20,
