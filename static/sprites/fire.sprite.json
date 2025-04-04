@@ -5,5 +5,12 @@
   "height": 512,
   "frameRate": 20,
   "frames": 38,
-  "variants": 1
+  "variants": 1,
+  "sizes": {
+    "512": "./fire.sprite.512.png",
+    "256": "./fire.sprite.256.png",
+    "128": "./fire.sprite.128.png",
+    "64": "./fire.sprite.64.png",
+    "32": "./fire.sprite.32.png"
+  }
 }
