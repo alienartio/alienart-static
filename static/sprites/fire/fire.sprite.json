@@ -1,0 +1,9 @@
+{
+  "imageUrl": "./fire.512.sprite.png",
+  "previewUrl": "./fire.webp",
+  "width": 512,
+  "height": 512,
+  "frameRate": 20,
+  "frames": 38,
+  "variants": 1
+}

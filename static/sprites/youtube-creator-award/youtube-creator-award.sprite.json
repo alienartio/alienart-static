@@ -1,0 +1,11 @@
+{
+  "imageUrl": "./youtube-creator-award.400.sprite.png",
+  "previewUrl": "./youtube-creator-award.webp",
+  "width": 512,
+  "height": 400,
+  "frameRate": 20,
+  "frames": 1,
+  "variants": 5,
+  "indicator": "value",
+  "values": [100000, 1000000, 10000000, 500000000, 100000000]
+}
