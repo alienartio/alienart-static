@@ -1,0 +1,9 @@
+{
+  "imageUrl": "./us-iowa.sprite.png",
+  "previewUrl": "./us-iowa.webp",
+  "width": 510,
+  "height": 512,
+  "frameRate": 30,
+  "frames": 30,
+  "variants": 1
+}

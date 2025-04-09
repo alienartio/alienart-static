@@ -1,0 +1,9 @@
+{
+  "imageUrl": "./chad.sprite.png",
+  "previewUrl": "./chad.webp",
+  "width": 512,
+  "height": 512,
+  "frameRate": 30,
+  "frames": 30,
+  "variants": 1
+}
