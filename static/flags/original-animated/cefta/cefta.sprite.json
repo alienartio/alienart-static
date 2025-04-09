@@ -1,0 +1,9 @@
+{
+  "imageUrl": "./cefta.sprite.png",
+  "previewUrl": "./cefta.webp",
+  "width": 748,
+  "height": 512,
+  "frameRate": 30,
+  "frames": 30,
+  "variants": 1
+}

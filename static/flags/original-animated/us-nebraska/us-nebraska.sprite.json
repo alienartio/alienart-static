@@ -1,0 +1,9 @@
+{
+  "imageUrl": "./us-nebraska.sprite.png",
+  "previewUrl": "./us-nebraska.webp",
+  "width": 853,
+  "height": 512,
+  "frameRate": 30,
+  "frames": 30,
+  "variants": 1
+}

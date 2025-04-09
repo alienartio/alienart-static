@@ -1,0 +1,9 @@
+{
+  "imageUrl": "./albania.sprite.png",
+  "previewUrl": "./albania.webp",
+  "width": 717,
+  "height": 512,
+  "frameRate": 30,
+  "frames": 30,
+  "variants": 1
+}

@@ -1,0 +1,9 @@
+{
+  "imageUrl": "./saint-kitts-and-nevis.sprite.png",
+  "previewUrl": "./saint-kitts-and-nevis.webp",
+  "width": 768,
+  "height": 512,
+  "frameRate": 30,
+  "frames": 30,
+  "variants": 1
+}

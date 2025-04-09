@@ -1,0 +1,9 @@
+{
+  "imageUrl": "./norway.sprite.png",
+  "previewUrl": "./norway.webp",
+  "width": 704,
+  "height": 512,
+  "frameRate": 30,
+  "frames": 30,
+  "variants": 1
+}

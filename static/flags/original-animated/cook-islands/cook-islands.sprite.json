@@ -1,0 +1,9 @@
+{
+  "imageUrl": "./cook-islands.sprite.png",
+  "previewUrl": "./cook-islands.webp",
+  "width": 1024,
+  "height": 512,
+  "frameRate": 30,
+  "frames": 30,
+  "variants": 1
+}
