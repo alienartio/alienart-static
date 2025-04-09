@@ -1,0 +1,9 @@
+{
+  "imageUrl": "./canada-bc.sprite.png",
+  "previewUrl": "./canada-bc.webp",
+  "width": 512,
+  "height": 512,
+  "frameRate": 30,
+  "frames": 30,
+  "variants": 1
+}

@@ -1,0 +1,9 @@
+{
+  "imageUrl": "./russia-ce.sprite.png",
+  "previewUrl": "./russia-ce.webp",
+  "width": 512,
+  "height": 512,
+  "frameRate": 30,
+  "frames": 30,
+  "variants": 1
+}

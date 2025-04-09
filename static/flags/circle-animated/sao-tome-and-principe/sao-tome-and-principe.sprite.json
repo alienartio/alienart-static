@@ -1,0 +1,9 @@
+{
+  "imageUrl": "./sao-tome-and-principe.sprite.png",
+  "previewUrl": "./sao-tome-and-principe.webp",
+  "width": 512,
+  "height": 512,
+  "frameRate": 30,
+  "frames": 30,
+  "variants": 1
+}

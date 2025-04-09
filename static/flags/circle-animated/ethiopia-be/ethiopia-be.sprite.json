@@ -1,0 +1,9 @@
+{
+  "imageUrl": "./ethiopia-be.sprite.png",
+  "previewUrl": "./ethiopia-be.webp",
+  "width": 512,
+  "height": 512,
+  "frameRate": 30,
+  "frames": 30,
+  "variants": 1
+}

@@ -1,0 +1,9 @@
+{
+  "imageUrl": "./pakistan-jk.sprite.png",
+  "previewUrl": "./pakistan-jk.webp",
+  "width": 512,
+  "height": 512,
+  "frameRate": 30,
+  "frames": 30,
+  "variants": 1
+}

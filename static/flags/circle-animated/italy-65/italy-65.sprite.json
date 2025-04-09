@@ -1,0 +1,9 @@
+{
+  "imageUrl": "./italy-65.sprite.png",
+  "previewUrl": "./italy-65.webp",
+  "width": 512,
+  "height": 512,
+  "frameRate": 30,
+  "frames": 30,
+  "variants": 1
+}

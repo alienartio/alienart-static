@@ -1,0 +1,9 @@
+{
+  "imageUrl": "./us-betsy-ross.sprite.png",
+  "previewUrl": "./us-betsy-ross.webp",
+  "width": 512,
+  "height": 512,
+  "frameRate": 30,
+  "frames": 30,
+  "variants": 1
+}
