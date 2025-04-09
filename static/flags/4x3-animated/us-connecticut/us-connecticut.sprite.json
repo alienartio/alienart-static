@@ -1,0 +1,9 @@
+{
+  "imageUrl": "./us-connecticut.sprite.png",
+  "previewUrl": "./us-connecticut.webp",
+  "width": 768,
+  "height": 512,
+  "frameRate": 30,
+  "frames": 30,
+  "variants": 1
+}

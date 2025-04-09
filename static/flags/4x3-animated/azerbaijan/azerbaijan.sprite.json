@@ -1,0 +1,9 @@
+{
+  "imageUrl": "./azerbaijan.sprite.png",
+  "previewUrl": "./azerbaijan.webp",
+  "width": 683,
+  "height": 512,
+  "frameRate": 30,
+  "frames": 30,
+  "variants": 1
+}

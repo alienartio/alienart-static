@@ -1,0 +1,9 @@
+{
+  "imageUrl": "./norfolk-island.sprite.png",
+  "previewUrl": "./norfolk-island.webp",
+  "width": 683,
+  "height": 512,
+  "frameRate": 30,
+  "frames": 30,
+  "variants": 1
+}

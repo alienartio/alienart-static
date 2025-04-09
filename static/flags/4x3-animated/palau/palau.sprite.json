@@ -1,0 +1,9 @@
+{
+  "imageUrl": "./palau.sprite.png",
+  "previewUrl": "./palau.webp",
+  "width": 683,
+  "height": 512,
+  "frameRate": 30,
+  "frames": 30,
+  "variants": 1
+}
