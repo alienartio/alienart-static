@@ -1,0 +1,9 @@
+{
+  "imageUrl": "./gabon.sprite.png",
+  "previewUrl": "./gabon.webp",
+  "width": 1024,
+  "height": 512,
+  "frameRate": 30,
+  "frames": 30,
+  "variants": 1
+}
