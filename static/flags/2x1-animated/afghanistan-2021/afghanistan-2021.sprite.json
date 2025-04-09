@@ -1,0 +1,9 @@
+{
+  "imageUrl": "./afghanistan-2021.sprite.png",
+  "previewUrl": "./afghanistan-2021.webp",
+  "width": 1024,
+  "height": 512,
+  "frameRate": 30,
+  "frames": 30,
+  "variants": 1
+}
