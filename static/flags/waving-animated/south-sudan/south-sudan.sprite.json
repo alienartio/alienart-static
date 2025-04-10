@@ -1,0 +1,9 @@
+{
+  "imageUrl": "./south-sudan.sprite.png",
+  "previewUrl": "./south-sudan.webp",
+  "width": 512,
+  "height": 512,
+  "frameRate": 30,
+  "frames": 30,
+  "variants": 1
+}
