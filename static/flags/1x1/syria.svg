@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="flag-icons-sy" viewBox="0 0 512 512">
-  <path fill="#000001" d="M0 0h512v512H0Z"/>
-  <path fill="#fff" d="M0 0h512v341.3H0Z"/>
-  <path fill="#ce1126" d="M0 0h512v170.7H0Z"/>
-  <path fill="#007a3d" d="M86.4 320 128 192l41.6 128-108.9-79.1h134.6M342.4 320 384 192l41.6 128-108.9-79.1h134.6"/>
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 200H300V300H0V200Z" fill="black"/>
+<path d="M0 100H300V200H0V100Z" fill="white"/>
+<path d="M0 0H300V100H0V0Z" fill="#007A3D"/>
+<path d="M47.3018 178L65.5871 122L83.8724 178L36 143.39H95.1726M216.129 178L234.414 122L252.7 178L204.827 143.39H264M131.713 178L149.998 122L168.284 178L120.411 143.39H179.584" fill="#CE1126"/>
 </svg>

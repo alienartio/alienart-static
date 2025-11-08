@@ -1,6 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="flag-icons-sy" viewBox="0 0 640 480">
-  <path fill="#000001" d="M0 0h640v480H0Z"/>
-  <path fill="#fff" d="M0 0h640v320H0Z"/>
-  <path fill="#ce1126" d="M0 0h640v160H0Z"/>
-  <path fill="#007a3d" d="m161 300 39-120 39 120-102-74.2h126M401 300l39-120 39 120-102-74.2h126"/>
+<svg width="640" height="480" viewBox="0 0 640 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_118_19)">
+<path d="M0 0H640V480H0V0Z" fill="black"/>
+<path d="M0 0H640V320H0V0Z" fill="white"/>
+<path d="M0 0H640V160H0V0Z" fill="#007A3D"/>
+<path d="M125.34 300L159.999 180L194.657 300L103.919 225.836H216.075M445.338 300L479.996 180L514.654 300L423.916 225.836H536.073M285.335 300L319.993 180L354.651 300L263.913 225.836H376.07" fill="#CE1126"/>
+</g>
+<defs>
+<clipPath id="clip0_118_19">
+<rect width="640" height="480" fill="white"/>
+</clipPath>
+</defs>
 </svg>
